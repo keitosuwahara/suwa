@@ -1,2 +1,1 @@
-print("練習用")
-
+import 
