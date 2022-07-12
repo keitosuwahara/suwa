@@ -1,1 +1,1 @@
-please install this  test directory on c:/xampp/htdogs
+please put this  test directory on c:/xampp/htdogs
